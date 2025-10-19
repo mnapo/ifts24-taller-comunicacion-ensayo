@@ -2,7 +2,18 @@
 La consigna del examen es escribir un ensayo con un tema relacionado a la IA en la modalidad de informe o ensayo para una audiencia no especializada.
 
 ## Versionado
-Se realiza una primer entrega (V1) y se van puliendo las siguientes de acuerdo al feedback
+Se realiza una primer entrega (V1) y se van puliendo las siguientes de acuerdo al feedback.
+### V1
+Se introducen problemáticas como:
+- reproducción de sesgos
+- totalitarismos
+- inteligencia vs consciencia
+### V2
+Se realizan las siguientes modificaciones:
+- más conectores entre párrafos
+- más ejemplos
+- reducción de oraciones que no vienen tanto al caso, o que no pueden ser presentadas correctamente sin dar un contexto que excede al objetivo o que aumenta demasiado el contenido del ensayo (ej. el concepto de panóptico)
+- reducción del vocabulario técnico
 
 ## Bibliografía
 El ensayo no contiene referencias a las citas utilizadas dado que está escrito en "estilo libre", y carece de rigor literario o científico.
